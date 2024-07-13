@@ -1,2 +1,5 @@
 Hello
-Bye bye
+Bye by
+Hey, what's up?
+I am trying to practice my GIT skills
+e
