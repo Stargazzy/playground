@@ -4,6 +4,7 @@ System.out.println("Hello!");
 if (5> 0){
 System.out.println("How are you?");
 <<<<<<< HEAD
+<<<<<<< HEAD
   System.out.println("Practicing fetch");  
 <<<<<<< HEAD
   System.out.println("Salam!");
@@ -14,4 +15,12 @@ System.out.println("How are you?");
 =======
 >>>>>>> parent of ef30861 (Added one more line of code)
   }
+=======
+}
+
+
+}
+
+
+>>>>>>> parent of 915f290 (added one line of code)
 }
